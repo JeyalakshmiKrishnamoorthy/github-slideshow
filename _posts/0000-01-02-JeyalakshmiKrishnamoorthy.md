@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-You can do this!!
+Try and Try again! U will succeed!! 
 Use the left arrow to go back!
